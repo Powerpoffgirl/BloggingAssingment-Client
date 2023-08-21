@@ -1,0 +1,26 @@
+.homePageTop{
+    padding-left: 15px;
+    padding-right: 15px;
+    justify-content: space-evenly;
+    gap:15px;
+}
+
+.registerPage{
+    padding-top: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.loginPage{
+    padding-top: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#registerTitle{
+    text-align: center;
+}
+
+#registerBtn{
+    margin-top: 15px;
+}
