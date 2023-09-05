@@ -4,6 +4,7 @@ Client side is deployed on netlify.
 Deployed Server side link: https://bloggingsite7.onrender.com
 Server side is deployed on Render.com.
 
+About the Application:- 
 This is a multi-user blogging platform that allows individuals to register for accounts, log in, and subsequently compose their own blog posts. Users can also peruse the writings of other bloggers and choose to "follow" them, establishing a connection. Within the platform, users have the ability to view their list of followers and those they follow, as well as the option to make adjustments to these lists by adding or removing connections. Additionally, users can edit their own profiles.
 
 # Getting Started with Create React App and Redux
